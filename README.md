@@ -46,10 +46,10 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 
 | # | Project Title | Stack | Link |
 |--|---------------|-------|------|
-| 1 |✅RAG on PDFs (Text + Tables) | MongoDB, Streamlit, OpenAI | [🔗 View](https://github.com/Nahidzeinali-web/RAG_PDF_Analysis) |
-| 2 |✅Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI | [🔗 View](https://github.com/Nahidzeinali-web/RAG_Index_Benchmarking) |
-| 3 |✅End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain | [🔗 View](https://github.com/Nahidzeinali-web/RAG_SemiStructured_PDF) |
-| 4 |✅RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain | [🔗 View](https://github.com/Nahidzeinali-web/RAG_Rare_Disease_AI_Agent) |
+| 1 |✅QA with TEXT | LlamaIndex,Gemini, Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) |
+| 2 |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
+| 3 |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|
+| 4 |🕐RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain |  ⏳ Coming Soon|
 | 5 |🕐RAG Chatbot with Feedback Loop | LangGraph, MongoDB, OpenAI | ⏳ Coming Soon |
 | 6 |🕐RAG Evaluation Toolkit | SBERT, ROUGE-L, VectorDB | ⏳ Coming Soon |
 | 7 |🔜RAG Agent with Memory + Tool Use | LangGraph, Agents, LLM Tools | 🔜 Planned |
@@ -61,7 +61,7 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 
 ## 📖 My Learning Journey
 
-This repository reflects my ongoing deep dive into Retrieval-Augmented Generation (RAG) pipelines. From simple prototypes to complex multi-modal document analysis, each project was an opportunity to explore different tools, strategies, and architectures.
+This repository reflects my ongoing exploration of Retrieval-Augmented Generation (RAG) pipelines. From simple prototypes to complex multi-modal document analysis, each project was an opportunity to explore different tools, strategies, and architectures.
 
 I continue to enhance this space with practical experiments, architecture diagrams, evaluation techniques, and scalable solutions.
 

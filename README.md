@@ -47,13 +47,14 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 | # | Project Title | Stack | Link |
 |--|---------------|-------|------|
 | 1 |✅QA with Documents | LlamaIndex,Gemini, Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) |
-| 2 |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
-| 3 |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|
-| 4 |🕐RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain |  ⏳ Coming Soon|
-| 5 |🕐RAG Chatbot with Feedback Loop | LangGraph, MongoDB, OpenAI | ⏳ Coming Soon |
-| 6 |🕐RAG Evaluation Toolkit | SBERT, ROUGE-L, VectorDB | ⏳ Coming Soon |
-| 7 |🔜RAG Agent with Memory + Tool Use | LangGraph, Agents, LLM Tools | 🔜 Planned |
-| 8 |🔜Scalable RAG on Kubernetes | FastAPI, Docker, K8s, Milvus | 🔜 Planned |
+| 2 |✅End to End RAG Pipeline Part-1 |                 |[🔗 View]                                 |
+|   |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
+|   |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|
+|   |🕐RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain |  ⏳ Coming Soon|
+|   |🕐RAG Chatbot with Feedback Loop | LangGraph, MongoDB, OpenAI | ⏳ Coming Soon |
+|   |🕐RAG Evaluation Toolkit | SBERT, ROUGE-L, VectorDB | ⏳ Coming Soon |
+|   |🔜RAG Agent with Memory + Tool Use | LangGraph, Agents, LLM Tools | 🔜 Planned |
+|   |🔜Scalable RAG on Kubernetes | FastAPI, Docker, K8s, Milvus | 🔜 Planned |
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
 

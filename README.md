@@ -47,7 +47,7 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 | # | Project Title | Stack | Link |
 |--|---------------|-------|------|
 | 1 |✅QA with Documents | LlamaIndex,Gemini, Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) |
-| 2 |✅End to End RAG Pipeline |                 |[🔗 View]                                 |
+| 2 |✅End to End RAG Pipeline |                 |[🔗 View](https://github.com/Nahidzeinali-web/RAG_2)                               |
 |   |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
 |   |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|
 |   |🕐RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain |  ⏳ Coming Soon|

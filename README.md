@@ -49,14 +49,10 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 | 1 |✅Introduction + RAG from Scratch| OLlama & Llama2|[🔗 View](https://github.com/Nahidzeinali-web/RAG_2)   
 | 2 |✅QA with Documents |LlamaIndex,Gemini & Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) | 
 | 3 |✅RAG Application |LangChain‬, OpenAI‬ & FAISS|[🔗 View](https://github.com/Nahidzeinali-web/RAG-Application-using-LangChain-OpenAI-and-FAISS-) |
-| 4 |✅RAG Application |Langchain,| [🔗 View]() |
-|   |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
-|   |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|
-|   |🕐RAG on Rare Disease Literature | LLaMA3, Ollama, LangChain |  ⏳ Coming Soon|
-|   |🕐RAG Chatbot with Feedback Loop | LangGraph, MongoDB, OpenAI | ⏳ Coming Soon |
-|   |🕐RAG Evaluation Toolkit | SBERT, ROUGE-L, VectorDB | ⏳ Coming Soon |
-|   |🔜RAG Agent with Memory + Tool Use | LangGraph, Agents, LLM Tools | 🔜 Planned |
-|   |🔜Scalable RAG on Kubernetes | FastAPI, Docker, K8s, Milvus | 🔜 Planned |
+| 4 |✅ Multimodel RAG Application |Langchain,| [🔗 View]() |
+|   |🕐|  |  ⏳ Coming Soon |
+|   |🔜 | | 🔜 Planned |
+
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
 

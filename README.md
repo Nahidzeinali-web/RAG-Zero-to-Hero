@@ -46,7 +46,7 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 
 | # | Project Title | Stack | Link |
 |--|---------------|-------|------|
-| 1 |✅End to End RAG Pipeline from Scratch| OLlama Python & Llama2|[🔗 View](https://github.com/Nahidzeinali-web/RAG_2)   
+| 1 |✅Introduction + RAG Implementation from Scratch with LLaMA2 Augmentation| OLlama & Llama2|[🔗 View](https://github.com/Nahidzeinali-web/RAG_2)   
 | 2 |✅QA with Documents | LlamaIndex,Gemini, Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) | 
 |   |🕐Multi-index RAG (HNSW vs IVF vs Flat) | Milvus, HuggingFace, FastAPI |  ⏳ Coming Soon |
 |   |🕐End-to-End Semi-Structured PDF RAG | Unstructured, OpenAI, LangChain |  ⏳ Coming Soon|

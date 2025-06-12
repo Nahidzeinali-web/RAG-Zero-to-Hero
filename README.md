@@ -49,7 +49,7 @@ Whether you're new to RAG or looking to level up your knowledge, each project is
 | 1 |✅Introduction + RAG from Scratch| OLlama & Llama2|[🔗 View](https://github.com/Nahidzeinali-web/RAG_2)   
 | 2 |✅QA with Documents |LlamaIndex,Gemini & Streamlit| [🔗 View](https://github.com/Nahidzeinali-web/QA-with-Documents-Text-using-Gemini-LlamaIndex) | 
 | 3 |✅RAG Application |LangChain‬, OpenAI‬ & FAISS|[🔗 View](https://github.com/Nahidzeinali-web/RAG-Application-using-LangChain-OpenAI-and-FAISS-) |
-| 4 |✅ Multimodel RAG Application |Langchain,| [🔗 View]() |
+| 4  | ✅ Multimodal RAG: Summarization Pipeline for Extracting Images, Tables, and Text| LangChain, OpenAI, `unstructured`, `pdf2image`| [🔗 View (https://github.com/Nahidzeinali-web/Multimodel-RAG-systems) |
 |   |🕐|  |  ⏳ Coming Soon |
 |   |🔜 | | 🔜 Planned |
 
